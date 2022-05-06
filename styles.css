@@ -1,0 +1,12 @@
+body {
+    background-color: #f1f1f1;
+    color: #0f141e;
+
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   .avatar{
+       width: 250px;
+       border-radius: 28px;
+   }
